@@ -1,1 +1,1 @@
-# Data-Mining
+# Git & Github Practices
